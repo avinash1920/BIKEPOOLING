@@ -1,2 +1,1 @@
-# BIKEPOOLING
-To run type "meteor" in terminal 
+Code is in master file
